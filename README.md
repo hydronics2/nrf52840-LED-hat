@@ -9,8 +9,7 @@ In this case it updates every minute... counting down my minutes for my last day
 [ebay listing for hat](https://www.ebay.com/itm/LED-Message-Hat-Original-Quality-Create-Your-Own-Text/264361690698).. pretty generic, they're are a lot of similar listings...
 
 ![hat](https://github.com/hydronics2/nrf52840-LED-hat/blob/master/led_hat.jpg)
-[<https://github.com/hydronics2/nrf52840-LED-hat/blob/master/vid_hat.PNG>](http://google.com.au/)
-![hat](https://github.com/hydronics2/nrf52840-LED-hat/blob/master/vid_hat.PNG)
+[![Foo](https://github.com/hydronics2/nrf52840-LED-hat/blob/master/vid_hat.PNG)](https://www.reddit.com/r/arduino/comments/e9sww9/i_made_a_count_down_hat_for_my_last_week_of_work/)
 
 ![eby listing](https://github.com/hydronics2/nrf52840-LED-hat/blob/master/ebay_listing_pic.PNG)
 
