@@ -6,3 +6,5 @@ This LED hat came with an app to change the text. I used my android phone to sno
 In this case it is counting down the minutes for my last day of work!
 
 
+[ebay listing for hat](https://www.ebay.com/itm/LED-Message-Hat-Original-Quality-Create-Your-Own-Text/264361690698)
+
