@@ -8,3 +8,5 @@ In this case it is counting down the minutes for my last day of work!
 
 [ebay listing for hat](https://www.ebay.com/itm/LED-Message-Hat-Original-Quality-Create-Your-Own-Text/264361690698)
 
+![hat](https://github.com/hydronics2/nrf52840-LED-hat/blob/master/led_hat.jpg)
+
